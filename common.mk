@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
    gralloc.montblanc \
    hwcomposer.montblanc \
    copybit.montblanc \
+   sensors.default \
    libblt_hw
 
 # STE Media

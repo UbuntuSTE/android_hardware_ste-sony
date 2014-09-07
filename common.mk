@@ -6,7 +6,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
    lights.montblanc \
    gralloc.montblanc \
-   hwcomposer.montblanc \
    copybit.montblanc \
    libblt_hw
 
